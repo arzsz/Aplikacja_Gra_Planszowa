@@ -1,6 +1,47 @@
-# Aplikacja_Gra_Planszowa
+.page-header {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
 
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
 
-Tytuł gry wyścig po wiedze historyczna-powstanie
+.content {
+    margin-left: 40px;
+}
 
-Gra dla pasjonatów historii polski w szczególności powstania warszawskiego. Gracz staje na porusza sie po planszy i odkrywa karty z pytaniami dotyczącymi powstania. Za każdą poprawna odpowiedz gracz dostaje 1 pkt Wygrywa gracz który zdobędzie najwięcej punktów w momencie dostania sie na ostatni element planszy.
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    float: right;
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
